@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Runtime.Serialization;
+using System.Security.Permissions;
 
 namespace FilesList
 {
+    [Serializable]
     public class ListOfFiles
     {
         public string DirectoryPath { get; set; }

@@ -1,0 +1,9 @@
+c:\users\k.kataeva\documents\visual studio 2012\Projects\FilesList\FilesList\bin\Debug\FilesList.exe.config
+c:\users\k.kataeva\documents\visual studio 2012\Projects\FilesList\FilesList\obj\Debug\FilesList.csprojResolveAssemblyReference.cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\FilesList\FilesList\bin\Debug\FilesList.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\FilesList\FilesList\bin\Debug\FilesList.pdb
+c:\users\k.kataeva\documents\visual studio 2012\Projects\FilesList\FilesList\obj\Debug\FilesList.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\FilesList\FilesList\obj\Debug\FilesList.pdb
+C:\Ксюша\Work\FilesList_success\FilesList\bin\Debug\FilesList.exe.config
+C:\Ксюша\Work\FilesList_success\FilesList\obj\Debug\FilesList.exe
+C:\Ксюша\Work\FilesList_success\FilesList\obj\Debug\FilesList.pdb
