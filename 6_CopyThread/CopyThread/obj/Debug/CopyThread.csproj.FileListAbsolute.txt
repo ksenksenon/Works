@@ -1,0 +1,12 @@
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\bin\Debug\CopyThread.exe.config
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\bin\Debug\CopyThread.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\bin\Debug\CopyThread.pdb
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\obj\Debug\CopyThread.csprojResolveAssemblyReference.cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\obj\Debug\CopyThread.Form1.resources
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\obj\Debug\CopyThread.Properties.Resources.resources
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\obj\Debug\CopyThread.csproj.GenerateResource.Cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\obj\Debug\CopyThread.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\CopyThread\CopyThread\obj\Debug\CopyThread.pdb
+C:\Ксюша\Work\6_CopyThread\CopyThread\bin\Debug\CopyThread.exe.config
+C:\Ксюша\Work\6_CopyThread\CopyThread\obj\Debug\CopyThread.exe
+C:\Ксюша\Work\6_CopyThread\CopyThread\obj\Debug\CopyThread.pdb
