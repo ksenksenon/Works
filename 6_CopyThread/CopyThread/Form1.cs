@@ -9,16 +9,23 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 using System.IO;
+using System.Configuration;
+
 
 
 namespace CopyThread
 {
     public partial class Form1 : Form
     {
-        private string _Path1 = @"C:\Users\k.kataeva\dir1\file.ISO";
-        private string _Path2 = @"C:\Users\k.kataeva\dir2\file.ISO";
+        static Configuration config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
+        string _Path1 = config.AppSettings.Settings["path1"].Value;
+        string _Path2 = config.AppSettings.Settings["path2"].Value;
+        //string _Path1 = ConfigurationSettings.AppSettings["path1"];
+        //string _Path2 = ConfigurationSettings.AppSettings["path2"];
+        //private string _Path1 = @"C:\Users\k.kataeva\dir1\file.ISO";
+        //private string _Path2 = @"C:\Users\k.kataeva\dir2\file.ISO";
         private SynchronizationContext _Context;
-    
+
         public Form1()
         {
             InitializeComponent();
@@ -57,6 +64,7 @@ namespace CopyThread
 
         public void FileCopying()
         {
+            if (File.Exists(_Path2)) File.Delete(_Path2);
             File.Copy(_Path1, _Path2);
             _Context.Post(Finish, null);
         }
