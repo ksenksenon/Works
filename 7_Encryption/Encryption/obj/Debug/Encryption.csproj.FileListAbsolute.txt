@@ -1,0 +1,9 @@
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Ксюша\Work\7_Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Ксюша\Work\7_Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Ксюша\Work\7_Encryption\Encryption\obj\Debug\Encryption.pdb
