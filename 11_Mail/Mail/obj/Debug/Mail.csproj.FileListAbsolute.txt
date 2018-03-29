@@ -1,0 +1,12 @@
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\bin\Debug\Mail.exe.config
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\bin\Debug\Mail.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\bin\Debug\Mail.pdb
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\obj\Debug\Mail.Form1.resources
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\obj\Debug\Mail.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\obj\Debug\Mail.pdb
+C:\Ксюша\Work\Mail\Mail\bin\Debug\Mail.exe.config
+C:\Ксюша\Work\Mail\Mail\obj\Debug\Mail.exe
+C:\Ксюша\Work\Mail\Mail\obj\Debug\Mail.pdb

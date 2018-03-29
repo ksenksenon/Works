@@ -1,0 +1,12 @@
+c:\users\k.kataeva\documents\visual studio 2012\Projects\ScrollLock\ScrollLock\bin\Debug\ScrollLock.exe.config
+c:\users\k.kataeva\documents\visual studio 2012\Projects\ScrollLock\ScrollLock\bin\Debug\ScrollLock.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\ScrollLock\ScrollLock\bin\Debug\ScrollLock.pdb
+c:\users\k.kataeva\documents\visual studio 2012\Projects\ScrollLock\ScrollLock\obj\Debug\ScrollLock.csprojResolveAssemblyReference.cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\ScrollLock\ScrollLock\obj\Debug\ScrollLock.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\ScrollLock\ScrollLock\obj\Debug\ScrollLock.pdb
+C:\Ксюша\Work\ScrollLock\ScrollLock\bin\Debug\ScrollLock.exe.config
+C:\Ксюша\Work\ScrollLock\ScrollLock\obj\Debug\ScrollLock.exe
+C:\Ксюша\Work\ScrollLock\ScrollLock\obj\Debug\ScrollLock.pdb
+C:\Ксюша\Work\ScrollLock\ScrollLock\bin\Debug\ScrollLock.exe
+C:\Ксюша\Work\ScrollLock\ScrollLock\bin\Debug\ScrollLock.pdb
+C:\Ксюша\Work\ScrollLock\ScrollLock\obj\Debug\ScrollLock.csprojResolveAssemblyReference.cache
