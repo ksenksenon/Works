@@ -1,0 +1,9 @@
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\bin\Debug\Cultures.exe.config
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\bin\Debug\Cultures.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\bin\Debug\Cultures.pdb
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\obj\Debug\Cultures.csprojResolveAssemblyReference.cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\obj\Debug\Cultures.Form1.resources
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\obj\Debug\Cultures.Properties.Resources.resources
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\obj\Debug\Cultures.csproj.GenerateResource.Cache
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\obj\Debug\Cultures.exe
+c:\users\k.kataeva\documents\visual studio 2012\Projects\Cultures\Cultures\obj\Debug\Cultures.pdb

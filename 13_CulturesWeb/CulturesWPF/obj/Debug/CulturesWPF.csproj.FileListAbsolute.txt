@@ -1,0 +1,15 @@
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\bin\Debug\CulturesWPF.exe.config
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\bin\Debug\CulturesWPF.exe
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\bin\Debug\CulturesWPF.pdb
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF.csprojResolveAssemblyReference.cache
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\MainWindow.baml
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\MainWindow.g.cs
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\App.g.cs
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF_MarkupCompile.cache
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF.g.resources
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF.Properties.Resources.resources
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF.csproj.GenerateResource.Cache
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF.exe
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF.pdb
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\k.kataeva\documents\visual studio 2012\Projects\Cultures\CulturesWPF\obj\Debug\CulturesWPF_MarkupCompile.lref
