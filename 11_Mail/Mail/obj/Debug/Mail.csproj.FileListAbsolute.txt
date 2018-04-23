@@ -10,3 +10,6 @@ c:\users\k.kataeva\documents\visual studio 2012\Projects\Mail\Mail\obj\Debug\Mai
 C:\Ксюша\Work\Mail\Mail\bin\Debug\Mail.exe.config
 C:\Ксюша\Work\Mail\Mail\obj\Debug\Mail.exe
 C:\Ксюша\Work\Mail\Mail\obj\Debug\Mail.pdb
+C:\Ксюша\Work\11_Mail\Mail\bin\Debug\Mail.exe.config
+C:\Ксюша\Work\11_Mail\Mail\obj\Debug\Mail.exe
+C:\Ксюша\Work\11_Mail\Mail\obj\Debug\Mail.pdb

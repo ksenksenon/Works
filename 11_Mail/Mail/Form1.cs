@@ -30,7 +30,7 @@ namespace Mail
                 mm.Subject = tbSubject.Text;
                 mm.Body = tbMessage.Text;
                 var client = new SmtpClient("smtp.yandex.ru", 25);
-                client.Credentials = new NetworkCredential("k.kataeva@westmedica.com", "Jzs97A5p");
+                client.Credentials = new NetworkCredential("k.kataeva@westmedica.com", "password");
                 client.EnableSsl = true;
                 client.Timeout = 2000;
                 client.Send(mm);
